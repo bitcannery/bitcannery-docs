@@ -1,5 +1,7 @@
 # BitCannery Secret Sharing Protocol
 
+![Bitcannery logo](/img/logo.png)
+
 BitCannery is an open protocol for triggered secret sharing. It was designed to provide a way to transfer blockchain account private keys in case of untimely death of the account owner. The protocol could be used for dead-man-switch applications, data escrow, managed data leaks, last-resort secret backups and disaster recovery device.
 
 Current implementation works on top of Ethereum network. You could check out Registry smart contracts on [Mainnet](https://etherscan.io/address/0x0481D19CDd6a12aa2f85b4a46A31D1d17BA33543) and [Rinkeby test network](https://rinkeby.etherscan.io/address/0x5a6db32a129e9f3ade0c2c9d7ed382b8607ae6f3 )
