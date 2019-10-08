@@ -10,7 +10,7 @@ Currently Bitcannery runs on both Ethereum mainnet and Rinkeby test network, but
 
 ## Keepers
 
-To implement trustless secret sharing, BitCannery uses the network of anonymous actors — `Keepers`. The keys used to encrypt secrets are split into shards (using Shamir's Secret Sharing algorithm) and distributed between Keepers. Keepers keep their shards until the sender pays for keeping. After the sender stops paying, Keepers incentivized to publish their shards to receive the final payout.
+To implement trustless secret sharing, Bitcannery uses the network of anonymous actors — `Keepers`. The keys used to encrypt secrets are split into shards (using Shamir's Secret Sharing algorithm) and distributed between Keepers. Keepers keep their shards until the sender pays for keeping. After the sender stops paying, Keepers incentivized to publish their shards to receive the final payout.
 
 Keepers run nodes to discover new secrets and to maintain (keep) existing secrets while collecting keeping fees.
 
