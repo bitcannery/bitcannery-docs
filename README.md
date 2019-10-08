@@ -1,6 +1,7 @@
 # Bitcannery Secret Sharing Protocol
 
-![Bitcannery logo](/img/logo.png)
+<img src='img/logo.jpg' alt='Bitcannery logo' height='200px'/>
+
 
 Bitcannery is an open protocol for triggered secret sharing. It was designed to provide a way to transfer blockchain account private keys in case of untimely death of the account owner. The protocol could be used for dead-man-switch applications, data escrow, managed data leaks, last-resort secret backups and disaster recovery device.
 
